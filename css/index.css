@@ -1,0 +1,42 @@
+.icon {
+    font-family: iconfont!important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-stroke-width: .2px;
+}
+.weui_msg{
+    border-radius: 8px;
+    background:#fbe15d ;
+    padding-bottom: 20px;
+}
+.weui_msg h1{
+    color:#93240a;
+    font-size: 20px;
+}
+.weui_msg p{
+    color: #93240a;
+    font-size: 14px;
+    text-align: left;
+    margin: 20px 3px;
+    font-weight: bold;
+}
+
+.infrobox{
+    background: #9e183a;
+    margin-top: -25px;
+    padding: 10px;
+}
+
+.btn-ms {
+    width: 100%;
+    background: #feed4b;
+    color: #c8374e;
+    font-size: 20px;
+}
+
+.inpt{
+    width: 90%;
+    margin: 0 2%;
+    padding: 10px ;
+}
